@@ -26,7 +26,7 @@ I write blogs on medium about Certifications and Pentesting in general.
 ### You can find me here:
 [![Twitter](assets/twitter-logo.png)][Twitter]
 [![Discord](assets/discord-logo.png)][Discord]
-[![LinkedIn](assets/linkedin-logo.png)][LinkedIn]
+[![LinkedIn](assets/linkedin.png)][LinkedIn]
 [![Medium](assets/medium-logo.png)][Medium]
 [![TryHackMe](assets/thm-logo.png)][TryHackMe]
 [![HackTheBox](assets/htb-logo.png)][HackTheBox]
@@ -40,7 +40,7 @@ This is why I got into Cyber Security. I get to study the stuff, and then I get 
 And Breaking the stuff is where adrenaline starts pumping in my brain! I live for the moments when I get a shell, or a exploit starts working after hours of debugging.
 -->
 [portfolio]: http://j0ey.xyz
-[LinkedIn]: http://abc.com
+[LinkedIn]: http://https://www.linkedin.com/in/shantanusaxena-infosec/
 [Twitter]: https://twitter.com/J0ey1997
 [Discord]: https://discordapp.com/users/376890661343068171
 [Medium]: https://j0ey.medium.com/
