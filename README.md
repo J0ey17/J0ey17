@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **J0ey17/J0ey17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +18,8 @@ Here are some ideas to get you started:
 ![joey](assets/joey.png)
 </div>
 
-I am Shantanu, your friendly Indian IT Guy._"Not the guy who scammed you couple of months ago"_
+I am Shantanu, your friendly Indian IT Guy._"Not the guy who scammed you couple of months ago."_
+
 I am also known as [j0ey][portfolio] in InfoSec Community.
 As you can already tell I am a huge F.R.I.E.N.D.S Fan!
 What I also am is a Web Application Pentester, Security Researcher &  Blogger.
