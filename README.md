@@ -20,7 +20,7 @@ I write blogs on medium about Certifications and Pentesting in general.
 * Throwback Network-THM
 
 ### Scripting and Programming Languages I use:
-* bash
+* Bash
 * Python
 
 ### You can find me here:
