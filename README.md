@@ -25,7 +25,8 @@ I write blogs on medium about Certifications and Pentesting in general.
 
 ### You can find me here:
 
-
+---
+![J0ey17 github stats](https://github-readme-stats.vercel.app/api?username=j0ey17&show_icons=true&theme=algolia)
 <!--
 Congratulations on finding this section, Just me rambling on about my love "Computer Networking"
 I love Computer Networking. Learning about services, protocols, packets from the ground up is like sandwiches for my brain and I have a lot of sandwiches yet to eat!! 
