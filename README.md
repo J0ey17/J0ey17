@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hey, How you Doin' 
 
 <div style="width:250px; height:250px">
-![joey](https://github.com/J0ey17/J0ey17/blob/a550b3da8256b4bf7210476413eee3bca7d780e0/assets/joey.png)
+[![joey](https://github.com/J0ey17/J0ey17/blob/a550b3da8256b4bf7210476413eee3bca7d780e0/assets/joey.png)]
 </div>
 
 I am Shantanu, your friendly Indian IT Guy._"Not the guy who scammed you couple of months ago."_
