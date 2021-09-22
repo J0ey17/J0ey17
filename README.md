@@ -12,14 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey!How you Doin' 
+## Hey, How you Doin' 
 
 <div style="width:250px; height:250px">
 ![joey](assets/joey.png)
 </div>
 
 I am Shantanu, your friendly Indian IT Guy._"Not the guy who scammed you couple of months ago."_
-
 I am also known as [j0ey][portfolio] in InfoSec Community.
 As you can already tell I am a huge F.R.I.E.N.D.S Fan!
 What I also am is a Web Application Pentester, Security Researcher &  Blogger.
