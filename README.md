@@ -24,7 +24,11 @@ I write blogs on medium about Certifications and Pentesting in general.
 * Python
 
 ### You can find me here:
-
+[![Twitter](assets/twitter-logo.png)][Twitter]
+[![Discord](assets/discord-logo.png)][Discord]
+[![Medium](assets/medium-logo.png)][Medium]
+[![TryHackMe](assets/thm-logo.png)][TryHackMe]
+[![HackTheBox](assets/htb-logo.png)][HackTheBox]
 ---
 ![J0ey17 github stats](https://github-readme-stats.vercel.app/api?username=j0ey17&show_icons=true&theme=dark)
 <!--
