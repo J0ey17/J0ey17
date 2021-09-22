@@ -1,8 +1,6 @@
 ## Hey, How you Doin' 
+![joey](assets/canvas.png)
 
-<div style="width:250px; height:250px">
-[![joey](https://github.com/J0ey17/J0ey17/blob/a550b3da8256b4bf7210476413eee3bca7d780e0/assets/joey.png)]
-</div>
 I am Shantanu, your friendly Indian IT Guy._"Not the guy who scammed you couple of months ago."_  
 I am also known as [j0ey][portfolio] in InfoSec Community.  
 As you can already tell I am a huge F.R.I.E.N.D.S Fan!  
@@ -10,10 +8,10 @@ What I also am is a Web Application Pentester, Security Researcher &  Blogger.
 Welcome to my Github!
 
 ### A little about me:
-I am 24, I have done my undergrad in Computer Science from KIIT. 
-Currently studying Network Pentesting and working towards getting my eCPPT.
-I love learning about networking, new exploits/vulnerabilities, writing scripts to automate pentesting, and practicing my skills on HTB & THM.
-I write blogs on medium about Certifications and Pentesting in general.
+I am 24, I have done my undergrad in Computer Science from KIIT.  
+Currently studying Network Pentesting and working towards getting my eCPPT.  
+I love learning about networking, new exploits/vulnerabilities, writing scripts to automate pentesting, and practicing my skills on HTB & THM.  
+I write blogs on medium about Certifications and Pentesting in general.  
 
 ### My Information Security Certifications:
 * eWPT
