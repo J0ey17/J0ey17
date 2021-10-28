@@ -1,9 +1,8 @@
 ## Hey, How you Doin' 
 ![joey](assets/canvas.png)
 
-I am [j0ey][portfolio].  
-As you can already tell I am a huge F.R.I.E.N.D.S Fan!  
-What I also am is a Web Application Pentester, Security Researcher &  Blogger.  
+I am Shantanu aka [j0ey][portfolio].
+I am a Web Application Pentester, Security Researcher &  Blogger.  
 Welcome to my Github!
 
 ### A little about me:
