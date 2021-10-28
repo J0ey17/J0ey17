@@ -1,6 +1,4 @@
 ## Hey, How you Doin' 
-![joey](assets/canvas.png)
-
 I am Shantanu aka [j0ey][portfolio].
 I am a Web Application Pentester, Security Researcher &  Blogger.  
 Welcome to my Github!
