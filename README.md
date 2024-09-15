@@ -1,25 +1,26 @@
 ## Hey, How you Doin' 
 I am Shantanu aka [j0ey][portfolio].
-I am a Web Application Pentester, Security Researcher &  Blogger.  
+I am a Network and Web Application Pentester, Security Researcher &  Blogger.  
 Welcome to my Github!
 
 ### A little about me:
-I am 25, I have done my undergrad in Computer Science from KIIT.  
+I am 26, I have done my undergrad in Computer Science from KIIT.  
 Currently studying Network and WebApp pentesting.  
 I love learning about networking, new exploits/vulnerabilities, writing scripts to automate pentesting, and practicing my skills on HTB & THM.  
 I write blogs on medium about Certifications and Pentesting in general.  
 
 ### My Information Security Certifications:
+* eWPTX
 * eWPT
 * eJPT
 * Dante Pro Labs-HTB
 * Throwback Network-THM
 
 ### Scripting and Programming Languages I use:
-* Ruby
+* C
+* C++
 * Bash
 * Python
-* JavaScript
 
 ### You can find me here:
 [![Twitter](assets/twitter-logo.png)][Twitter]
