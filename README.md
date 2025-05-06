@@ -4,7 +4,7 @@ I am a Network and Web Application Pentester, Security Researcher &  Blogger.
 Welcome to my Github!
 
 ### A little about me:
-I am 26, I have done my undergrad in Computer Science from KIIT.  
+I am 27, I have done my undergrad in Computer Science from KIIT.  
 Currently studying Network and WebApp pentesting.  
 I love learning about networking, new exploits/vulnerabilities, writing scripts to automate pentesting, and practicing my skills on HTB & THM.  
 I write blogs on medium about Certifications and Pentesting in general.  
@@ -17,8 +17,6 @@ I write blogs on medium about Certifications and Pentesting in general.
 * Throwback Network-THM
 
 ### Scripting and Programming Languages I use:
-* C
-* C++
 * Bash
 * Python
 
