@@ -27,6 +27,7 @@ I write blogs on medium about Certifications and Pentesting in general.
 [![Medium](assets/medium-logo.png)][Medium]
 [![TryHackMe](assets/thm-logo.png)][TryHackMe]
 [![HackTheBox](assets/htb-logo.png)][HackTheBox]
+[![YT](assets/yt.png)][YT]
 <!--
 Congratulations on finding this section, Just me rambling on about my love "Computer Networking"
 I love Computer Networking. Learning about services, protocols, packets from the ground up is like sandwiches for my brain and I have a lot of sandwiches yet to eat!! 
@@ -41,4 +42,5 @@ And Breaking the stuff is where adrenaline starts pumping in my brain! I live fo
 [Medium]: https://j0ey.medium.com/
 [TryHackMe]: https://tryhackme.com/p/Shantanu.7S
 [HackTheBox]: https://www.hackthebox.eu/home/users/profile/403011
+[YT]: https://www.youtube.com/@TnT-with-j0ey
 
