@@ -27,7 +27,7 @@ I write blogs on medium about Certifications and Pentesting in general.
 [![Medium](assets/medium-logo.png)][Medium]
 [![TryHackMe](assets/thm-logo.png)][TryHackMe]
 [![HackTheBox](assets/htb-logo.png)][HackTheBox]
-[![YT](assets/yt.png)][YT]
+[![YT](assets/yt-logo.png)][YT]
 <!--
 Congratulations on finding this section, Just me rambling on about my love "Computer Networking"
 I love Computer Networking. Learning about services, protocols, packets from the ground up is like sandwiches for my brain and I have a lot of sandwiches yet to eat!! 
