@@ -9,6 +9,9 @@ Currently studying AWS and API security.
 I love learning about networking, new exploits/vulnerabilities, writing scripts to automate pentesting, and practicing my skills on HTB & THM.  
 I write blogs on medium about Certifications and Pentesting and upload my very very long vidoes of me doing HTB and THM machines, why should I be the only one undergoing this carnage.  
 
+### Published CVE
+* CVE-2025-40647 : Username Enumeration via Response Discrepancy in Silverpeas version <= 6.4.2
+
 ### My Information Security Certifications:
 * eWPTX
 * eWPT
