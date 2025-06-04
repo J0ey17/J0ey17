@@ -1,70 +1,78 @@
 <div align="center">
-  <h1>Hey there, I'm Shantanu (j0ey)</h1>
+  <h1>Hey there, I'm Shantanu (<code>j0ey</code>)</h1>
   <p>
-    Network & Web App Pentester | API Security Researcher | YouTuber | Blogger
+    Pentester & Security Researcher | Scripting Enthusiast | Content Creator
   </p>
-  <p>Welcome to my GitHub profile!</p>
-</div>
+  <p>Welcome to my GitHub Profile! Navigating the digital world, one exploit at a time.</p>
+  </div>
 
 ## 🎯 About Me & Current Focus
 
-I'm passionate about cybersecurity and continuously expanding my expertise. My current focus is on **AWS** and **API Security**. My work and interests involve:
+I'm deeply immersed in the world of cybersecurity, constantly exploring and learning. My current focus is on mastering **AWS Cloud Security** and deepening my expertise in **API Penetration Testing**. You'll often find me:
 
-* Exploring network architecture and uncovering new vulnerabilities.
-* Developing Bash & Python scripts to streamline pentesting processes.
-* Actively engaging with challenges on Hack The Box & TryHackMe.
-* Sharing insights and walkthroughs on my [Medium blog](https://j0ey.medium.com/) and [YouTube channel](YOUR_YOUTUBE_CHANNEL_LINK_HERE). ## 💡 Highlighted Research
+* Dissecting network protocols and hunting for vulnerabilities.
+* Crafting **Bash** & **Python** scripts to automate the cyber battlefield.
+* Pushing my limits on **Hack The Box** & **TryHackMe** challenges.
+* Sharing my journey, code, and insights on [Medium](https://j0ey.medium.com/) and my [YouTube Channel](YOUR_YOUTUBE_CHANNEL_LINK_HERE). ## 🏆 Highlighted Achievement: CVE Discovery
 
-* **CVE-2025-46047**: Username Enumeration vulnerability I discovered in Silverpeas version <= 6.4.2.
+> [!IMPORTANT]
+> **CVE-2025-46047: Critical Username Enumeration Vulnerability**
+>
+> I identified a significant username enumeration vulnerability in Silverpeas Core <= 6.4.2. This discovery helps protect systems by allowing for mitigation against potential unauthorized information disclosure. *(Responsible disclosure coordinated with the Silverpeas team.)*
 
-## 🛠️ My Tech Stack
+## 🛠️ My Tech Arsenal & Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/API%20Security-6c757d.svg?style=flat-square" alt="API Security"/>
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/API%20Security-6c757d.svg?style=for-the-badge&logo=matrix&logoColor=white&labelColor=black" alt="API Security"/>
+  <img src="https://img.shields.io/badge/Networking-007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-D22B2B.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Penetration Testing"/>
 </p>
 
-## 📜 Certifications
+## 📜 Certifications & Milestones
 
+A few of my key certifications on this journey:
 * eWPTX (eLearnSecurity Web Penetration Tester eXtreme)
 * eWPT (eLearnSecurity Web Penetration Tester)
 * eJPT (eLearnSecurity Junior Penetration Tester)
 * Dante Pro Labs (Hack The Box)
 * Throwback Network (TryHackMe)
 
-## 🌐 Connect With Me
+## ⛩️ Connect & Explore
+
+Let's connect! You can find more of my work and thoughts across these platforms:
 
 <div align="center">
 <p>
-  <a href="http://j0ey.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-j0ey.xyz-ff69b4?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
-  </a>
+  <a href="http://j0ey17.gihub.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-j0ey.xyz-8A2BE2?style=for-the-badge&logo=gamebanana&logoColor=white" alt="Portfolio"/>
+    </a>
   <a href="https://www.linkedin.com/in/shantanusaxena-infosec/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/J0ey1997" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://j0ey.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="YOUR_YOUTUBE_CHANNEL_LINK_HERE" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+  <a href="https://www.youtube.com/@TnT-with-j0ey" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://tryhackme.com/p/Shantanu.7S" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-  </a>
+    <img src="https://img.shields.io/badge/TryHackMe-212020?style=for-the-badge&logo=tryhackme&logoColor=52e552" alt="TryHackMe"/>
+    </a>
   <a href="https://www.hackthebox.eu/home/users/profile/403011" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-9fef00?style=flat-square&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
-  </a>
+    <img src="https://img.shields.io/badge/HackTheBox-101F2B?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/>
+     </a>
   <a href="https://discordapp.com/users/376890661343068171" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 </div>
 
 ---
 <div align="center">
-  <p><small>Constantly learning and evolving.</small></p>
+  <p><small>Always exploring, forever learning. Coding my way towards a view of rural Japan. ⛰️</small></p>
 </div>
