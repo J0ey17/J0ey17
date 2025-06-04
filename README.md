@@ -46,7 +46,7 @@ Let's connect! You can find more of my work and thoughts across these platforms:
 
 <div align="center">
 <p>
-  <a href="http://j0ey17.gihub.io" target="_blank">
+  <a href="http://j0ey17.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-j0ey.xyz-8A2BE2?style=for-the-badge&logo=gamebanana&logoColor=white" alt="Portfolio"/>
     </a>
   <a href="https://www.linkedin.com/in/shantanusaxena-infosec/" target="_blank">
