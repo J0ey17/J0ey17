@@ -1,13 +1,13 @@
 ## Hey, How you Doin' 
 I am Shantanu aka [j0ey][portfolio].
-I am a Network and Web Application Pentester, Security Researcher &  Blogger.  
+I am a Network and Web Application Pentester / API, Security Researcher, youtuber, &  Blogger.  
 Welcome to my Github!
 
 ### A little about me:
-I am 27, I have done my undergrad in Computer Science from KIIT.  
-Currently studying Network and WebApp pentesting.  
+I am 27, I have done my grad in CyberSecurity from Northumbria University London.  
+Currently studying AWS and API security.  
 I love learning about networking, new exploits/vulnerabilities, writing scripts to automate pentesting, and practicing my skills on HTB & THM.  
-I write blogs on medium about Certifications and Pentesting in general.  
+I write blogs on medium about Certifications and Pentesting and upload my very very long vidoes of me doing HTB and THM machines, why should I be the only one undergoing this carnage.  
 
 ### My Information Security Certifications:
 * eWPTX
