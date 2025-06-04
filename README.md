@@ -13,7 +13,7 @@ I'm deeply immersed in the world of cybersecurity, constantly exploring and lear
 * Dissecting network protocols and hunting for vulnerabilities.
 * Crafting **Bash** & **Python** scripts to automate the cyber battlefield.
 * Pushing my limits on **Hack The Box** & **TryHackMe** challenges.
-* Sharing my journey, code, and insights on [Medium](https://j0ey.medium.com/) and my [YouTube Channel](YOUR_YOUTUBE_CHANNEL_LINK_HERE). ## 🏆 Highlighted Achievement: CVE Discovery
+* Sharing my journey, code, and insights on [Medium](https://j0ey.medium.com/) and my [YouTube Channel](https://www.youtube.com/@TnT-with-j0ey).
 
 > [!IMPORTANT]
 > **CVE-2025-46047: Critical Username Enumeration Vulnerability**
